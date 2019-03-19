@@ -1,0 +1,6 @@
+Atom
+Plugins:
+atom-live-server
+emmet
+file-icons
+pigments
